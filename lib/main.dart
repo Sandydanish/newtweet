@@ -40,7 +40,7 @@ class NewTweet extends StatelessWidget {
                           shape: BoxShape.circle,
                           color: Colors.black,
                           image: DecorationImage(
-                              image: AssetImage("images/1.jpg")),
+                              image: AssetImage("images/back1.jpg")),
                           border: Border.all(color: Colors.black, width: 5)),
                     ),
                   ),
